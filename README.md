@@ -1,34 +1,30 @@
 # WonderlandCreature
 
-WonderlandCreature is my pre-seed product studio for AI-native systems, workflow tools, and future-facing experiments.
+WonderlandCreature is my pre-seed playground for AI-native products, workflow systems, and future-facing experiments.
 
-This repository is where early ideas take form before they become standalone products, structured companies, or dedicated repositories.
+It is a home for ideas before they are fully named, fully funded, or fully formed, but already real enough to prototype.
 
 ## What Lives Here
 
 - **MyDay**  
-  A personal operating system concept for AI-assisted workflow, organization, and everyday decision support.
+  A product concept for AI-assisted daily workflow, organization, and personal operating systems.
 
-- **AI Workflow Infrastructure**  
-  Early systems exploring how AI can coordinate tasks, reduce friction, and improve execution across human workflows.
+- **Workflow Experiments**  
+  New ways of using AI to coordinate tasks, decisions, and execution across human workflows.
 
-- **Experimental Interfaces**  
-  Prototype builds designed to test new product interactions, user behaviors, and applied AI use cases.
+- **Prototype Builds**  
+  Early product and system explorations designed to test interaction, utility, and market potential.
 
-- **Future Venture Concepts**  
-  Cross-domain ideas that may evolve into independent products, new repositories, or venture-scale directions.
+- **Future Concepts**  
+  Ideas that may evolve into standalone repositories, independent products, or venture-scale directions.
 
 ## Why This Repository Exists
 
-I use this space to explore a simple thesis: AI-native products will reshape how people organize work, make decisions, and interact with complex systems.
+I use this space to build the first version of things that feel promising before they become polished products.
 
-Some projects here will remain experiments.  
-Some will become products.  
-A few may become something much bigger.
-
-## Current Direction
-
-This repository sits upstream of my more structured portfolio work and serves as a build space for early product thinking, invention, and pre-seed exploration.
+Some projects here are rough.  
+Some are speculative.  
+Some are the beginning of something much bigger.
 
 ## Contact
 - LinkedIn: [linkedin.com/in/alicexdong](https://linkedin.com/in/alicexdong)
