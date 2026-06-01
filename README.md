@@ -1,4 +1,4 @@
-<!-- Repository README for the 05_wonderlandcreature portfolio section -->
+<!-- Repository README for the wonderlandcreature public repository -->
 
 # WonderlandCreature
 
@@ -27,6 +27,11 @@ I use this space to build the first version of things that feel promising before
 Some projects here are rough.  
 Some are speculative.  
 Some are the beginning of something much bigger.
+
+## Repository Notes
+- `README.md`: public-facing repository introduction
+- `docs/github-homepage-readme.md`: homepage-style repository map draft
+- `docs/PORTFOLIO_STYLE_GUIDE.md`: portfolio tone and writing guide
 
 ## Contact
 - LinkedIn: [linkedin.com/in/alicexdong](https://linkedin.com/in/alicexdong)
