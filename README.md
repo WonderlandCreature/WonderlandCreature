@@ -26,6 +26,9 @@ Some projects here are rough.
 Some are speculative.  
 Some are the beginning of something much bigger.
 
+## Current Direction
+This repository is designed for early-stage concepts, product-thinking AI systems, and experimental builds that sit upstream of more structured portfolio repositories.
+
 ## Contact
 - LinkedIn: [linkedin.com/in/alicexdong](https://linkedin.com/in/alicexdong)
 - Email: dongxiaocun@gmail.com
